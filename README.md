@@ -30,7 +30,7 @@ Es un plugin para Tailwind que nos ofrece "componentes" en forma de clases pre h
 
 Es una libreria de react que nos facilita el desarrollo web gracias a los componentes prehechos que trae que nos permitiran enfocarnos en el desarrollo y no tener que preocuparnos por como hacer los componentes
 
-yo considero que solo deberamos usarlo para casos en el que crear nosotros el componente se vuelve una tarea muy dificil, ya que no son tan comodos de personalizar
+> yo considero que solo deberamos usarlo para casos en el que crear nosotros el componente se vuelve una tarea muy dificil, ya que no son tan comodos de personalizar
 
 [Componentes Material UI (MUI)](https://mui.com/material-ui/all-components/)
 
