@@ -6,8 +6,10 @@ export default function Home() {
 	return (
 		<>
 		<BarraDeNavegacion />
-		<MapaDeUTP />
+		<div className='flex flex-row h-auto'>
+		<MapaDeUTP/>
 		<AsistenteChat />
+		</div>
 		</>
 	)
 }
